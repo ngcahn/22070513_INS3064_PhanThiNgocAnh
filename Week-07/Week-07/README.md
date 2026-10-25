@@ -5,4 +5,4 @@
 **Course:** INS306402
 
 ## YouTube Video
-[Insert your YouTube video link here]
+https://youtu.be/moauvUu--YQ
