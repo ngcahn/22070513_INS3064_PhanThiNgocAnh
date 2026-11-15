@@ -1,0 +1,13 @@
+[2026-11-15 11:51:26] DivisionByZeroException: Cannot calculate modulo by zero. | Input: "10 % 0" | IP: ::1
+[2026-11-15 11:51:38] InvalidInputException: Please enter valid numeric values for both numbers. | Input: "abc + 5" | IP: ::1
+[2026-11-15 11:51:58] OverflowException: The result exceeds the supported numeric limits. | Input: "999999 ** 99999" | IP: ::1
+[2026-11-15 11:53:07] OverflowException: The result exceeds the supported numeric limits. | Input: "999999 ** 99999" | IP: ::1
+[2026-11-15 11:53:09] OverflowException: The result exceeds the supported numeric limits. | Input: "999999 ** 99999" | IP: ::1
+[2026-11-15 11:53:27] OverflowException: The result exceeds the supported numeric limits. | Input: "999999 ** 99999" | IP: ::1
+[2026-11-15 11:53:35] InvalidOperatorException: Invalid operator. Please select a supported operator. | Input: "5 & 3" | IP: ::1
+[2026-11-15 11:54:00] InvalidOperatorException: Invalid operator. Please select a supported operator. | Input: "5 & 3" | IP: ::1
+[2026-11-15 11:54:46] InvalidOperatorException: Invalid operator. Please select a supported operator. | Input: "5 & 3" | IP: ::1
+[2026-11-15 11:58:53] DivisionByZeroException: Cannot divide by zero. Please enter a non-zero second number. | Input: "10 / 0" | IP: ::1
+[2026-11-15 11:59:27] InvalidInputException: Please enter valid numeric values for both numbers. | Input: "abc / 5" | IP: ::1
+[2026-11-15 11:59:52] OverflowException: The result exceeds the supported numeric limits. | Input: "9999 ** 9999999" | IP: ::1
+[2026-11-15 12:00:01] OverflowException: The result exceeds the supported numeric limits. | Input: "9999 ** 9999999" | IP: ::1
