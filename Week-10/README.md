@@ -1,9 +1,7 @@
-# INS3064 - Homework 10
+# INS3064 Homework 10 - PHP with MySQL
 
-**Student:** Phan Thi Ngoc Anh  
-**Student ID:** 22070513  
-**Course:** INS306402
+**Student:** Phan Thi Ngoc Anh **Student ID:** 22070513 **Course:** INS306402
 
-## Topic
+## YouTube Video
 
-Contact Manager - PHP with MySQL
+[https://youtu.be/poFxf-ClL6U](https://youtu.be/poFxf-ClL6U)
